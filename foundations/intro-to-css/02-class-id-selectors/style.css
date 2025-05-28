@@ -1,0 +1,18 @@
+.odd {
+  background-color: lightpink;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#frst-id {
+  color: blue;
+  font-size: 36px;
+}
+
+#scnd-id {
+  background-color: lightgreen;
+  font-weight: bold;
+}
+
+.size {
+  font-size: 24px;
+}
